@@ -98,7 +98,7 @@ class ChatContainer extends Component {
           <center>
         <h4 style={{padding:"100px 0 0 30px",textAlign:"center",fontFamily: "papyrus", fontWeight:"bold"}}>Welcome to Hogwarts Chat, the land of anonimity.<br/>
          Your name changes to a different character from Harry Potter everytime you reload the page,<br/>
-          try to get new chats or by default every 15-20 seconds but your chat remains the same. <br/>
+          try to get new chats or by default every 25-30 seconds but your chat remains the same. <br/>
           Enjoy chatting :)</h4>
           </center>
             <InputGroup>
