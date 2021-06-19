@@ -38,7 +38,7 @@ class ChatContainer extends Component {
    this.setState({loadingText:"Changing your names..."})
     window.setTimeout(function () {
       window.location.reload();
-    }, 30000);
+    }, 60000);
   }
   
   componentWillMount() {   
