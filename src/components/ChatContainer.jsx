@@ -114,7 +114,7 @@ class ChatContainer extends Component {
             </InputGroup>
             <br />
             <Button type="submit" variant="primary" size="lg" disabled={invalid} style={myStyleButton} >Send Message</Button>
-            <Button variant="primary" size="lg" style={myStyleButton} onClick={this.pageReload}>Get New Messages</Button>
+            <Button variant="primary" size="lg" style={myStyleButton} onClick={this.pageReload}>Get New Names</Button>
           </Form>
           <br></br>
         <div className="chat-container">
