@@ -4,4 +4,4 @@
 ### Deployment
 
 Deployed on netlify-
-[Hogwarts Chat](hogwartschat.netlify.app/)
+[Hogwarts Chat](https://hogwartschat.netlify.app/)
