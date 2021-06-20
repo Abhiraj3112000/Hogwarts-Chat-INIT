@@ -15,7 +15,7 @@ class Footer extends Component {
             textAlign:"center",
             }} >
            <br/>
-            <h5 style={{ margin:"0rem auto 1rem auto"}}><strong>&lt;Hope You'll like it&gt; </strong>-Abhiraj</h5>
+            <h5 style={{ margin:"0rem auto 1rem auto"}}><strong>&lt;Hope you'll like it&gt; </strong>-Abhiraj</h5>
               
         </footer>);
     }
